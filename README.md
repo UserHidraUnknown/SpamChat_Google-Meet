@@ -1,9 +1,9 @@
 # SpamChatBot Google Meet
 
 *O script só vai funcionar se estiver com a extensão ( Tampermonkey ) 
-**~~_________________________________________________________________________________________________________~~**
+**~~__________________________________________________________________________~~**
 __**Site oficial do Tampermonkey :**__ https://abre.ai/tampermonkeyzzz
-**~~_________________________________________________________________________________________________________~~**
+**~~__________________________________________________________________________~~**
 
 *Quando você instalar a extensão aperte na extensão e em criar novo script
 
@@ -11,12 +11,12 @@ __**Site oficial do Tampermonkey :**__ https://abre.ai/tampermonkeyzzz
 
 *Então você copia e cola no site e depois vai em Arquivo e clique em Salvar 
                               
-**~~_________________________________________________________________________________________________________~~**
+**~~__________________________________________________________________________~~**
  
 *Crie um novo Google Meet e teste com certeza vai funcionar
 
 *Caso já está em um Google Meet aperte **F5** e vai funcionar
 
-**~~_________________________________________________________________________________________________________~~**
+**~~__________________________________________________________________________~~**
 
 `Comando para ativar o script : ( tecla das aspas )`
