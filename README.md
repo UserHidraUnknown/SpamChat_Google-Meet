@@ -1,5 +1,7 @@
 # SpamChatBot Google Meet
 
+( **ALERTA :** LIBERE O POP UP NÃO É VÍRUS SE NÃO LIBERAR NÃO VAI FUNCIONAR )
+
 *O script só vai funcionar se estiver com a extensão ( Tampermonkey ) 
 
 **~~_________________________~~**
